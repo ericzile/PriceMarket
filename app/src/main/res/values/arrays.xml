@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_period_options">
+        <item>@string/pref_period_weekly</item>
+        <item>@string/pref_period_monthly</item>
+    </string-array>
+
+    <string-array name="pref_period_values">
+        <item>7</item>
+        <item>30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="actionBarStyle">@style/ActionBar.BestPrice</item>
+    </style>
+
+    <style name="ActionBar.BestPrice" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/green</item>
+    </style>
+
+    <style name="listStyle">
+
+    </style>
+
+
+</resources>
